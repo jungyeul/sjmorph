@@ -7,5 +7,5 @@ sjmorph.model for udpipe (http://ufal.mff.cuni.cz/udpipe) is available at https:
 
 We obtain 99.88% f1 score for segmentation and 94.75% accuracy for POS tagging for Sejong tag sets.
 
-[new, July 2020] Using sjmorph_v3.model, we obtain 99.88% f1 score for segmentation and 94.77% accuracy for POS tagging for Sejong tag sets.
+[new, July 2020] Using sjmorph_v3.model, we obtain 99.88% f1 score for token segmentation and 94.77% accuracy for POS tagging for Sejong tag sets. We also fix encoding problems in macOS. 
 
