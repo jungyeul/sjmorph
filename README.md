@@ -8,6 +8,8 @@ We obtain 99.88% f1 score for segmentation and 94.75% accuracy for POS tagging f
 
 
 ## history
+[new, October 2020] We will update UPOS in the SJMorph model based on a new mapping table in [kim-colineau:2020:LREC[https://www.aclweb.org/anthology/2020.lrec-1.472/]] (to be announced). 
+
 [new, September 2020] We present Korean NER based on the SJMorph model (to be announced). 
 
 [July 2020] Using sjmorph_v3.model, we obtain 99.88% f1 score for token segmentation and 94.77% accuracy for POS tagging for Sejong tag sets. We also fixed encoding problems in macOS. For the newest model, please contact jungyeul (dot) park (at) gmail (dot) com. 
