@@ -8,7 +8,7 @@ We obtain 99.88% f1 score for segmentation and 94.75% accuracy for POS tagging f
 
 
 ## history
-[new, October 2020] We will update UPOS in the SJMorph model based on a new mapping table in [kim-colineau:2020:LREC[https://www.aclweb.org/anthology/2020.lrec-1.472/]] (to be announced). 
+[new, October 2020] We will update UPOS in the SJMorph model based on a new mapping table in [kim-colineau:2020:LREC](https://www.aclweb.org/anthology/2020.lrec-1.472/) (to be announced). 
 
 [new, September 2020] We present Korean NER based on the SJMorph model (to be announced). 
 
