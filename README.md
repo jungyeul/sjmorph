@@ -12,6 +12,6 @@ We obtain 99.88% f1 score for segmentation and 94.75% accuracy for POS tagging f
 
 [new, September 2020] We present Korean NER based on the SJMorph model (to be announced). 
 
-[July 2020] Using sjmorph_v3.model, we obtain 99.88% f1 score for token segmentation and 94.77% accuracy for POS tagging for Sejong tag sets. We also fixed encoding problems in macOS. For the newest model, please contact jungyeul (dot) park (at) gmail (dot) com. 
+[July 2020] Using sjmorph_v3.model, we obtain 99.88% f1 score for token segmentation and 94.77% accuracy for POS tagging for Sejong tag sets. We also fixed encoding problems in macOS. For the newest model of sjmorph.model, please contact jungyeul (dot) park (at) gmail (dot) com. 
 
 
